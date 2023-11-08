@@ -7,7 +7,7 @@ describe('Demo Tests', function () {
         await $('[name="q"]').setValue('WebdriverIO')
         //await $("[name='btnK']").click()
         browser.keys('Enter')
-        await browser.pause(3000)
+        await browser.pause(5000)
     })
 
 })
