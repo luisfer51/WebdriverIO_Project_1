@@ -18,6 +18,7 @@
     "@wdio/mocha-framework": "^8.21.0",
     "@wdio/spec-reporter": "^8.21.0",
     "allure-commandline": "^2.24.1",
+    "chai": "^4.3.10",
     "chromedriver": "^119.0.0",
     "wdio-edgedriver-service": "^3.0.3",
     "wdio-geckodriver-service": "^5.0.2"
